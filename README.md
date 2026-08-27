@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi, I'm Chris
 
-<!--
-**ChrisMantelos/ChrisMantelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development with a focus on AI and Flutter. Currently
+studying at IEK, backed by certifications from Google, Microsoft, IBM,
+Kaggle, and Anthropic, and building projects to put that into practice.
 
-Here are some ideas to get you started:
+Full portfolio: [chrismantelos.github.io](https://chrismantelos.github.io/ChrisMant.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+**[AI Study Buddy](https://github.com/ChrisMantelos/ai-study-buddy)**
+Flutter app + Python backend that turns pasted study notes into a
+multiple-choice quiz using the Claude API.
+
+**[Text Professionalizer](https://github.com/ChrisMantelos/text-professionalizer)**
+Rewrites informal drafts into professional communication, with a CLI and a
+deployed web app.
+[Live demo](https://text-professionalizer-cm5su4jbqzwfcevd9p6vjk.streamlit.app)
+
+**[Expense Tracker](https://github.com/ChrisMantelos/expense-tracker-pandas)**
+Reads a CSV of personal expenses and reports totals by category with pandas.
+
+**[Flutter Quote Generator](https://github.com/ChrisMantelos/flutter-quote-generator)**
+A small Flutter exercise in state management with `StatefulWidget`.
+
+### Tech I'm working with
+
+Python - Flutter/Dart - FastAPI - Pandas - Anthropic API
+
+### Currently learning
+
+Combining AI and mobile development into full applications, not just
+scripts - and getting comfortable with backend/frontend architecture.
