@@ -23,6 +23,12 @@ Reads a CSV of personal expenses and reports totals by category with pandas.
 **[Flutter Quote Generator](https://github.com/ChrisMantelos/flutter-quote-generator)**
 A small Flutter exercise in state management with `StatefulWidget`.
 
+### Let's Connect!
+
+I regularly build and share open-source projects centered around AI integration and Flutter. Feel free to explore my repos, star the code, or connect with me professionaly:
+
+LinkedIn: [Chris Mantelos](https://www.linkedin.com/in/chris-mantelos-3983b43b5/)
+
 ### Tech I'm working with
 
 Python - Flutter/Dart - FastAPI - Pandas - Anthropic API
