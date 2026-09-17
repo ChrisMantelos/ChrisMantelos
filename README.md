@@ -5,25 +5,25 @@ mobile development. Backed by certifications from Google, Microsoft,
 IBM, Kaggle, and Anthropic. Currently building projects that combine AI,
 backend, and Flutter.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chrismantelos.github.io-2b2118?style=for-the-badge)](https://chrismantelos.github.io/ChrisMant.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chrismantelos.github.io-2b2118?style=for-the-badge)](https://chrismantelos.github.io/ChrisMant.github.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris%20Mantelos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mantelos-3983b43b5)
 
 ---
 
 ### Tech I actually use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Currently learning
 
-![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
 ![Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-yellow?style=for-the-badge)
 
 ---
