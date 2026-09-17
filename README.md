@@ -5,7 +5,8 @@ mobile development. Backed by certifications from Google, Microsoft,
 IBM, Kaggle, and Anthropic. Currently building projects that combine AI,
 backend, and Flutter.
 
-Full portfolio: [chrismantelos.github.io](https://chrismantelos.github.io/ChrisMant.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chrismantelos.github.io-2b2118?style=for-the-badge)](https://chrismantelos.github.io/ChrisMant.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris%20Mantelos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mantelos-3983b43b5)
 
 ---
 
@@ -53,6 +54,6 @@ pandas.
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMantelos&show_icons=true&theme=default&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMantelos&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisMantelos&hide_border=true)
+*(Note: this card is served by a free public service that occasionally
+has downtime. If it doesn't load, refresh the page - it usually recovers
+within a few minutes.)*
