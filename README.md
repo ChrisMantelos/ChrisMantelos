@@ -5,7 +5,7 @@ mobile development. Backed by certifications from Google, Microsoft,
 IBM, Kaggle, and Anthropic. Currently building projects that combine AI,
 backend, and Flutter.
 
-Full portfolio: [chrismantelos.github.io](https://chrismantelos.github.io)
+Full portfolio: [chrismantelos.github.io](https://chrismantelos.github.io/ChrisMant.github.io/)
 
 ---
 
